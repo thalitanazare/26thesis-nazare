@@ -15,29 +15,29 @@ The thesis figures indicate which code should be used to reproduce each result. 
 
 ## Chapter structure
 
-### `Chapter 1 — Introduction`
+ `Chapter 1 — Introduction`
 
-### `Chapter 2 — Global Energy Landscape and Its Evolution`
+ `Chapter 2 — Global Energy Landscape and Its Evolution`
 
-### `Chapter 3 — Nonlinear Dynamical Systems`
+ `Chapter 3 — Nonlinear Dynamical Systems`
 
-### `Chapter 4 — Historical Perspective on Wind and Wave Energy Systems`
+ `Chapter 4 — Historical Perspective on Wind and Wave Energy Systems`
 
-### `Chapter 5 — Floating Inverted Pendulum Model for Analysing the Pitch Stability of Offshore Wind Turbines`
+ `Chapter 5 — Floating Inverted Pendulum Model for Analysing the Pitch Stability of Offshore Wind Turbines`
 
-### `Chapter 6 — Data-driven modelling of the RM3 wave energy converter`
+ `Chapter 6 — Data-driven modelling of the RM3 wave energy converter`
 
-### `Chapter 7 — The Emergence of Energy Efficiency in Computing`
+ `Chapter 7 — The Emergence of Energy Efficiency in Computing`
 
-### `Chapter 8 — Green-Box System Identification`
+ `Chapter 8 — Green-Box System Identification`
 
-### `Chapter 9 — Energy Efficiency in NARMAX Models for Reduced Carbon Footprint`
+ `Chapter 9 — Energy Efficiency in NARMAX Models for Reduced Carbon Footprint`
 
-### `Chapter 10 — A Boolean-Driven Chaotic Framework for Lightweight Pseudo-Random Number Generation`
+ `Chapter 10 — A Boolean-Driven Chaotic Framework for Lightweight Pseudo-Random Number Generation`
 
-### `Chapter 11 — Circuit-Based Lower-Bound Error Framework for Lyapunov Exponent Estimation`
+ `Chapter 11 — Circuit-Based Lower-Bound Error Framework for Lyapunov Exponent Estimation`
 
-### `Chapter 12 — Conclusion and Future Perspectives`
+ `Chapter 12 — Conclusion and Future Perspectives`
 
 ## How to locate the code for a figure
 
