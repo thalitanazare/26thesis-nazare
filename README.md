@@ -6,7 +6,6 @@ This repository centralises the data, scripts, simulation files, and auxiliary m
 Thalita Emanuelle de Nazaré  
 Maynooth University, 2026
 
-Repository: https://github.com/thalitanazare/26thesis-nazare/tree/main
 
 ## Repository organisation
 
